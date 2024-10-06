@@ -58,5 +58,8 @@ public class MainActivity extends AppCompatActivity {
         int resp = ((bMenor + bMaior)*alt)/2;
         String res = getString(R.string.resp) + " " + resp;
         tvRes.setText(res);              //forma de colocar texto no TextView ou no EditText
+        etBaseMenor.setText("");
+        etBaseMaior.setText("");
+        etAltura.setText("");
     }
 }
