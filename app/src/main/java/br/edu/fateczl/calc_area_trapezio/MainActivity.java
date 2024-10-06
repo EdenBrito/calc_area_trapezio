@@ -1,3 +1,8 @@
+/*
+    Nome:   Éden Vieira Brito
+    RA:     1110482213006
+*/
+
 package br.edu.fateczl.calc_area_trapezio;
 
 import android.os.Bundle;
